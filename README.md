@@ -1,5 +1,6 @@
 # ncm2mp3_for_mac
 A shortcuts for MacOS to change .ncm to .mp3
+将网易云音乐下载的 .ncm 文件转换为 .mp3 文件
 
 # Usage
 1. `clone` 本仓库，将其中的`ncm2mp3.py`放在一个你喜欢的路径下
